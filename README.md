@@ -1,7 +1,16 @@
-### Hi there 👋
+# Hi 🙋🏻‍♂️ I'm Pierre
+
+## I'm a self-taught frontend web developer 💻 👨🏻‍🎨
+
+#### I'm mainly working with HTML, CSS/Sass, JavaScript, Vue & Nuxt.
+I also know NodeJS & Express, as well as basic SQL.
+
+📧 Contact me: chatard.pierre@gmail.com
 
 <!--
-**pchatard/pchatard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Visit my website: [Pierre Chatard - Frontend Web Developer]()
+
+
 
 Here are some ideas to get you started:
 
