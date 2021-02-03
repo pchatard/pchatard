@@ -1,29 +1,32 @@
-![Test](https://res.cloudinary.com/deo7szuol/image/upload/v1607624568/LinkedIn_Cover_-_1_ucmoou.png)
+# Hi 🙋🏻‍♂️ I'm Pierre, a self-taught frontend web developer 💻 👨🏻‍🎨
 
-# Hi 🙋🏻‍♂️ I'm Pierre
+### I know...
 
-## I'm a self-taught frontend web developer 💻 👨🏻‍🎨
+- HTML, CSS, JavaScript
+- NodeJS, Express
+- Vue.js & NuxtJS 💚
+- SQL, Firebase
+- Git
 
-#### I'm mainly working with HTML, CSS/Sass, JavaScript, Vue & Nuxt.
-I also know NodeJS & Express, as well as basic SQL.
+### I am still learning about...
 
-📧  Contact me: chatard.pierre@gmail.com
+- Tests
+- Docker
+- NoSQL
+- GraphQL
 
-<!--🖥  Site web: [Pierre Chatard](https://pierrechatard.netlify.app)-->
+### Contact
 
-<!--
-Visit my website: [Pierre Chatard - Frontend Web Developer]()
+```
+Available for work, collaborations, discussions
+```
 
+**Send me an e-mail**: chatard.pierre@gmail.com
 
+**Visit my personal website**: [Pierre Chatard](https://pierrechatard.fr)
 
-Here are some ideas to get you started:
+**See my latest project**: [GiftList, the ultimate wishlist application](https://giftlist-blue.vercel.app/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Connect on LinkedIn**: [/in/pierrechatard](https://www.linkedin.com/in/pierrechatard/)
+
+**Follow me on Twitter**: [@pierre.codes](https://twitter.com/pierre_codes)
