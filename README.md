@@ -29,4 +29,4 @@ Available for work, collaborations, discussions
 
 **Connect on LinkedIn**: [/in/pierrechatard](https://www.linkedin.com/in/pierrechatard/)
 
-**Follow me on Twitter**: [@pierre.codes](https://twitter.com/pierre_codes)
+**Follow me on Twitter**: [@pierre_codes](https://twitter.com/pierre_codes)
