@@ -8,7 +8,7 @@
 - SQL, Firebase
 - Git
 
-### I am still learning about...
+### I am learning about...
 
 - Tests
 - Docker
