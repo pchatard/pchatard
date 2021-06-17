@@ -8,18 +8,11 @@
 - SQL, Firebase
 - Git
 
-### I am learning about...
+### Currently learning :
 
-- Tests
-- Docker
-- NoSQL
-- GraphQL
+- Java (Spring, Hibernate)
 
 ### Contact
-
-```
-Available for work, collaborations, discussions
-```
 
 **Send me an e-mail**: chatard.pierre@gmail.com
 
